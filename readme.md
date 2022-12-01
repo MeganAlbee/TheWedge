@@ -25,7 +25,7 @@ To create a data pipeline that extracts zipped transaction records, cleans and u
 <h2>Data Visualization</h2>
 In addition to this project, I created a dashboard with Looker Studio that gives a manager an overview of people, products and profits.
 </br> 
-
+</br> 
 <img src="img/dashboard.png">
 
 [Preview online here.](https://datastudio.google.com/u/0/reporting/1fe42f02-bf4d-4d90-b3ed-799c1d0e0a68/page/QzYj) 
