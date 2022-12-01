@@ -7,6 +7,7 @@
 <h2>About</h2>
 The Wedge Co-Op is the largest co-operative grocery store in the United States and is in Minneapolis, MN. Through a partnership with the co-op, we have data dating back to January 1, 2010 from the point-of-sale (POS) system that the Wedge developed. We have data through January 2017. This system logs every row of every receipt. This dataset is complex and was the product of manual export that was not consistent.  
 </br>
+
 <h2>Goal and requirements</h2>
 
 To create a data pipeline that extracts zipped transaction records, cleans and uploads to Google BigQuery. Then, develop business reports that would serve a manager, owner or operations manager. 
